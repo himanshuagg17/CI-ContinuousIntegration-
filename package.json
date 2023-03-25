@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/himanshuagg17/CI-ContinuousIntegration-/issues"
   },
-  "homepage": "https://github.com/himanshuagg17/CI-ContinuousIntegration-#readme"
+  "homepage": "https://github.com/himanshuagg17/CI-ContinuousIntegration-#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }
